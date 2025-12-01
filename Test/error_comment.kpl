@@ -1,0 +1,5 @@
+PROGRAM Test;
+BEGIN
+  (* This is a comment without closing
+  x := 5
+END.

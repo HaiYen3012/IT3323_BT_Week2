@@ -1,0 +1,6 @@
+PROGRAM Test;
+PROCEDURE DoSomething(123);
+BEGIN
+END;
+BEGIN
+END.

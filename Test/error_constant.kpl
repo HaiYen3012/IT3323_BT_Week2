@@ -1,0 +1,5 @@
+PROGRAM Test;
+CONST
+  X = END;
+BEGIN
+END.
